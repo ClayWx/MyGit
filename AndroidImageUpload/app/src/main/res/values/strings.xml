@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidImageUpload</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_image_list_view">ImageListView</string>
+    <string name="title_activity_view_full_image">ViewFullImage</string>
+    <string name="title_activity_view_image">ViewImage</string>
+</resources>
